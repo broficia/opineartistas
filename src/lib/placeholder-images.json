@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "matue",
+      "description": "Brazilian rapper Matuê on stage",
+      "imageUrl": "https://images.unsplash.com/photo-1608357501758-430201af2e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJTIwcmFwcGVyfGVufDB8fHx8MTc2NzcxNDk0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male rapper"
+    },
+    {
+      "id": "luan",
+      "description": "Brazilian singer Luan Santana",
+      "imageUrl": "https://images.unsplash.com/photo-1675099348165-1c9056e5e492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJTIwc2luZ2VyfGVufDB8fHx8MTc2NzY4MzQzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male singer"
+    },
+    {
+      "id": "poze",
+      "description": "MC Poze do Rodo, a Brazilian funk artist",
+      "imageUrl": "https://images.unsplash.com/photo-1594996384115-7c9896752b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYWxlJTIwcmFwcGVyJTIwc3VuZ2xhc3Nlc3xlbnwwfHx8fDE3NjgyNzYyODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male rapper sunglasses"
+    },
+    {
+      "id": "anitta",
+      "description": "Brazilian singer Anitta",
+      "imageUrl": "https://images.unsplash.com/photo-1628040228915-f4dfa4680873?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBzaW5nZXJ8ZW58MHx8fHwxNzY4MzU0OTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female singer"
+    },
+    {
+      "id": "ludmilla",
+      "description": "Brazilian singer Ludmilla",
+      "imageUrl": "https://images.unsplash.com/photo-1588516903720-8ceb67f94a86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBzaW5nZXIlMjBkYXJrJTIwaGFpcnxlbnwwfHx8fDE3NjkyMzkxNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female singer dark hair"
+    },
+    {
+      "id": "cabelin",
+      "description": "MC Cabelin, a Brazilian funk artist",
+      "imageUrl": "https://images.unsplash.com/photo-1618388907349-42a1f8c4744d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWxlJTIwcmFwcGVyJTIwdGF0dG9vc3xlbnwwfHx8fDE3NjkzMTI4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male rapper tattoos"
+    }
+  ]
+}
